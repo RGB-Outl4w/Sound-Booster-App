@@ -26,7 +26,7 @@ The application leverages the Windows Audio Session API (WASAPI) to intercept an
 1. Download the latest release from the `Releases` page.
 2. Extract the ZIP archive and run the executable file. 
 3. Select your desired input and output audio devices upon launching the application.
-	3.1 Both of the devices should be microphones. The input being your physical microphone and the output being your VAC.
+3.1 Both of the devices should be microphones. The input being your physical microphone and the output being your VAC.
 4. Choose the target application from the provided list.
 5. Adjust the boost slider to your preferred amplification level. 
 
