@@ -797,7 +797,26 @@ namespace MicrophoneBoosterApp
 
         private void ExitApp(object sender, EventArgs e)
         {
-            Application.Exit();
+            // Stop Audio Processing (Important!) 
+            if (waveIn != null)
+            {
+                waveIn.StopRecording();
+                waveIn.Dispose();
+                waveIn = null;
+            }
+            if (waveOut != null)
+            {
+                waveOut.Stop();
+                waveOut.Dispose();
+                waveOut = null;
+            }
+
+            // (Optional) Save Settings:
+            Settings.Default.WindowLocation = this.Location;
+            Settings.Default.Save();
+
+            // Exit the Application:
+            Environment.Exit(0);  // Or 'Application.Exit();' <-- less forceful, may not work
         }
 
         protected override void OnFormClosing(FormClosingEventArgs e)
