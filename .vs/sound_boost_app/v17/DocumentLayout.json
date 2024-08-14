@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\sound-boost-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|c:\\users\\user\\source\\repos\\sound-boost-app\\sound-boost-app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|solutionrelative:sound-boost-app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|solutionrelative:sound-boost-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\appitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|solutionrelative:sound-boost-app\\appitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|solutionrelative:sound-boost-app\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB183831-F2A4-4691-A89D-1C73736314F9}|sound-boost-app\\sound_boost_app.csproj|solutionrelative:sound-boost-app\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\MainForm.cs",
+              "RelativeDocumentMoniker": "sound-boost-app\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\MainForm.cs",
+              "RelativeToolTip": "sound-boost-app\\MainForm.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAwwBEBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:34:07.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "sound-boost-app\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\SettingsForm.cs",
+              "RelativeToolTip": "sound-boost-app\\SettingsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:34:12.769Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\AppItem.cs",
+              "RelativeDocumentMoniker": "sound-boost-app\\AppItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\AppItem.cs",
+              "RelativeToolTip": "sound-boost-app\\AppItem.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:34:16.921Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\AppConfig.cs",
+              "RelativeDocumentMoniker": "sound-boost-app\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\AppConfig.cs",
+              "RelativeToolTip": "sound-boost-app\\AppConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:36:07.048Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\Program.cs",
+              "RelativeDocumentMoniker": "sound-boost-app\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sound-boost-app\\sound-boost-app\\Program.cs",
+              "RelativeToolTip": "sound-boost-app\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwF4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:27:14.316Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

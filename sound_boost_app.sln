@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sound_boost_app", "sound-boost-app\sound_boost_app.csproj", "{AB183831-F2A4-4691-A89D-1C73736314F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB183831-F2A4-4691-A89D-1C73736314F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB183831-F2A4-4691-A89D-1C73736314F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB183831-F2A4-4691-A89D-1C73736314F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB183831-F2A4-4691-A89D-1C73736314F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B2C708-D203-4EA9-9D1F-6ECFCE4E2863}
+	EndGlobalSection
+EndGlobal
