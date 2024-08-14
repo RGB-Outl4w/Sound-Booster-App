@@ -36,6 +36,10 @@ The application leverages the Windows Audio Session API (WASAPI) to intercept an
 * Leverages the NAudio library for audio processing.
 * Configuration files are stored in JSON format for ease of management.
 
+**F.A.Q (Frequently Asked Questions)**
+
+* If you have any unanswered questions, check the [FAQ tab](https://gist.github.com/RGB-Outl4w/a05a7410d32ea41aa260a55b11ceb70e)!
+
 **🤝 Contributions:**
 
 We encourage contributions to the project! If you encounter a bug, have feature requests, or would like to improve the codebase, feel free to open an issue or submit a pull request through the GitHub repository.
