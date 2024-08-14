@@ -46,6 +46,6 @@ We encourage contributions to the project! If you encounter a bug, have feature 
 
 This project is free and open-source, developed and maintained in my spare time to help others achieve better audio control. If you find this application useful and would like to support its continued development, any contribution is greatly appreciated. You can support me through:
 
-* [https://boosty.to/rgboutlaw](My Boosty page)
+* [🧡 My boosty page](https://boosty.to/rgboutlaw)
 
 Thank you for your generosity!
