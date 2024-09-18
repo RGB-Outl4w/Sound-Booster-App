@@ -1,3 +1,4 @@
+![SoundBoosterAppBanner](https://i.imgur.com/8kyswxi.jpeg)
 # 🔊 Sound Booster App
 
 The Sound Booster App provides fine-grained control over application-specific microphone volume levels on Windows systems. Designed for users seeking to enhance their audio experience without affecting the overall system volume, this utility allows for tailored audio boosting on a per-application basis.
