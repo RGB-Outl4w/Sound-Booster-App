@@ -1,7 +1,16 @@
-![SoundBoosterAppBanner](https://i.imgur.com/8kyswxi.jpeg)
+<p align="center">
+  <img alt="SoundBoosterAppBanner" src="https://i.imgur.com/8kyswxi.jpeg">
+<br>
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/RGB-Outl4w/Sound-Booster-App?logo=github">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RGB-Outl4w/Sound-Booster-App">
+  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/RGB-Outl4w/Sound-Booster-App/total?color=lime">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RGB-Outl4w/Sound-Booster-App?style=flat&color=yellow">
+</p>
+
 # 🔊 Sound Booster App
 
 The Sound Booster App provides fine-grained control over application-specific microphone volume levels on Windows systems. Designed for users seeking to enhance their audio experience without affecting the overall system volume, this utility allows for tailored audio boosting on a per-application basis.
+
 
 **🔑 Key Features:**
 
