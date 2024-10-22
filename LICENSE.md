@@ -2,7 +2,7 @@
 
 > Version 1.2, February 2021
 
-> Copyright (C) 2024 Maxim Surgutskiy
+> Copyright (C) 2024 RGB_Outlaw
  
  Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 
